@@ -1,0 +1,11 @@
+# В Git включаются только итоговые файлы задания.
+/*
+!/.gitignore
+!/TESTCASES.md
+!/README.md
+!/BUGS.md
+!/PROMPTS.md
+!/requirements.txt
+!/TASK1.md
+!/test_api.py
+!/QA-trainee-assignment-autumn-2026 (2).md
